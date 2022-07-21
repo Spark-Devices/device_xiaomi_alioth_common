@@ -194,3 +194,10 @@ ro.zram.periodic_wb_delay_hours=24
 
 # Disable Remote Keygaurd animation
 persist.wm.enable_remote_keyguard_animation=0
+
+# Spark-OS
+ro.spark.device.name=Poco F3
+ro.spark.group.url=https://t.me/spsalioth
+ro.spark.maintainer=Ziad Fekry
+ro.spark.maintainer.username=Ziad Fekry
+
